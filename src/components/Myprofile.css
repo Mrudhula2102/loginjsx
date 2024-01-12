@@ -1,0 +1,64 @@
+.profile-container {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 40px;
+    border: 2px solid #ccc;
+    border-radius: 6px;
+    background-color: #f9f9f9;
+    
+  }
+  
+  h1 {
+    text-align: center;
+  }
+  
+  .profile-details {
+    margin-bottom: 20px;
+    align-items: center;
+  }
+  
+  .profile-details div {
+    margin-bottom: 10px;
+  }
+  
+  .profile-details label {
+    font-weight: bold;
+    margin-right: 10px;
+  }
+  
+  .profile-details input {
+    width: 100%;
+    padding: 5px;
+    margin-top: 5px;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+  }
+  
+  .profile-details span {
+    display: inline-block;
+    padding: 5px;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+    background-color: #fff;
+  }
+  
+  .button-container {
+    display: flex;
+    justify-content: center;
+  }
+  
+  .button-container button {
+    padding: 8px 20px;
+    margin-right: 10px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .button-container button:last-child {
+    margin-right: 0;
+  }
+  .bb
+{
+    margin-left:260px;
+}

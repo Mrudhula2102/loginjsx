@@ -1,0 +1,40 @@
+/* Sidebar.css */
+.sidebar {
+    width: 200px;
+    height: 90%;
+    background-color:#1b2430;
+    color: #f7f4f4;
+    position: fixed;
+    top: 79px;
+    left: 0;
+    font-weight: bold;
+    overflow-x: hidden;
+    padding-top: 10px;
+    
+  }
+  .sidebar a{
+    text-decoration:  none;
+  }
+  .sidebar ul {
+    text-align: left;
+    list-style: none;
+    padding: 0;
+  }
+  
+  .sidebar li {
+    color:#17cf97;
+    padding: 10px 15px;
+    cursor: pointer;
+  }
+  
+   .sidebar li:hover {
+    background-color: #b8e6de;
+    
+  } 
+  .log{
+    font-family: 'Times New Roman', Times, serif;
+}
+.txt{
+  text-align:center
+}
+  
